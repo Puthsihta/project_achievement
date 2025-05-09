@@ -3,6 +3,7 @@
 These are apps I’ve worked on that are available as open source:
 
 - **🕒 EMT (Employee Time Management)**  
+  [![EMT](../assets/emt.png)](https://github.com/Puthsihta/employee_time_management)  
   [View on GitHub](https://github.com/Puthsihta/employee_time_management)
 
 ---
