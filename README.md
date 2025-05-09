@@ -4,9 +4,25 @@ This repository contains several categorized projects. Each folder includes a `p
 
 ## 🔗 Project Index
 
-- <img src="./assets/digital_one.png" alt="digital_one" width="80" height="80" style="border-radius: 50%; vertical-align: middle;"> [**📘 digital_one/project.md**](./digital_one/project.md)
-- <img src="./assets/my_profile_pic.png" alt="my_profile_pic" width="80" height="80" style="border-radius: 50%; vertical-align: middle;"> [**📗 personal_project/project.md**](./personal_project/project.md)
-- <img src="./assets/phsar_tech.png" alt="phsar_tech" width="80" height="80" style="border-radius: 50%; vertical-align: middle;"> [**📙 phsar_tech/project.md**](./phsar_tech/project.md)
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="./assets/digital_one.png" alt="digital_one" width="80" height="80" style="border-radius: 50%;">
+      <br/>
+      <a href="./digital_one/project.md">📘 digital_one/project.md</a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="./assets/my_profile_pic.png" alt="my_profile_pic" width="80" height="80" style="border-radius: 50%;">
+      <br/>
+      <a href="./personal_project/project.md">📗 personal_project/project.md</a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="./assets/phsar_tech.png" alt="phsar_tech" width="80" height="80" style="border-radius: 50%;">
+      <br/>
+      <a href="./phsar_tech/project.md">📙 phsar_tech/project.md</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
