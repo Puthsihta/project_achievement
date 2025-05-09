@@ -1,3 +1,12 @@
-This is a list my apps that i haved worked.
+## 💻 Open Source Projects
 
-1. EMT : <https://github.com/Puthsihta/employee_time_management>
+These are apps I’ve worked on that are available as open source:
+
+- **🕒 EMT (Employee Time Management)**  
+  [View on GitHub](https://github.com/Puthsihta/employee_time_management)
+
+---
+
+### 🙌 Thank you for visiting
+
+Feel free to explore the links above and get in touch if you'd like to collaborate or learn more about my work.
