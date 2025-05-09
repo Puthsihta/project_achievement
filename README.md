@@ -4,9 +4,9 @@ This repository contains several categorized projects. Each folder includes a `p
 
 ## 🔗 Project Index
 
-- ![digital_one](./assets/digital_one.png) [**📘 digital_one/project.md**](./digital_one/project.md)
-- ![my_profile_pic](./assets/my_profile_pic.png) [**📗 personal_project/project.md**](./personal_project/project.md)
-- ![phsar_tech](./assets/phsar_tech.png) [**📙 phsar_tech/project.md**](./phsar_tech/project.md)
+- <img src="./assets/digital_one.png" alt="digital_one" width="80" height="80" style="border-radius: 50%; vertical-align: middle;"> [**📘 digital_one/project.md**](./digital_one/project.md)
+- <img src="./assets/my_profile_pic.png" alt="my_profile_pic" width="80" height="80" style="border-radius: 50%; vertical-align: middle;"> [**📗 personal_project/project.md**](./personal_project/project.md)
+- <img src="./assets/phsar_tech.png" alt="phsar_tech" width="80" height="80" style="border-radius: 50%; vertical-align: middle;"> [**📙 phsar_tech/project.md**](./phsar_tech/project.md)
 
 ---
 
