@@ -8,11 +8,17 @@ This document showcases the apps I’ve been involved in — either as a develop
 
 These are the apps that I have successfully published on the App Store.
 
-- **📦 BLOC Delivery**  
-  <a href="https://apps.apple.com/kh/app/bloc-delivery/id1459499838">
-  <img src="../assets/bloc_delivery.png" width="120" alt="BLOC Delivery">
-  </a>  
-  [View on App Store](https://apps.apple.com/kh/app/bloc-delivery/id1459499838)
+**📦 BLOC Delivery**
+
+<div style="display: flex; align-items: center; gap: 16px; padding: 8px 0;">
+  <a href="https://apps.apple.com/kh/app/bloc-delivery/id1459499838" target="_blank">
+    <img src="../assets/bloc_delivery.png" width="120" alt="BLOC Delivery" style="border-radius: 8px;">
+  </a>
+  <div>
+    <p><strong>Bloc</strong> is the E-commerce project known as the Bloc-Delivery App in Cambodia.</p>
+    <a href="https://apps.apple.com/kh/app/bloc-delivery/id1459499838">View on App Store</a>
+  </div>
+</div>
 
 ---
 
