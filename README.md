@@ -7,7 +7,7 @@ This repository contains several categorized projects. Each folder includes a `p
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="./assets/digital_one.png" alt="digital_one" width="80" height="80" style="border-radius: 50%;">
+      <img href="./digital_one/project.md" src="./assets/digital_one.png" alt="digital_one" width="80" height="80" style="border-radius: 50%;">
       <br/>
       <a href="./digital_one/project.md">Digital One Project</a>
     </td>
