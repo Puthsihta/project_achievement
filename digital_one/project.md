@@ -10,15 +10,19 @@ These are the apps that I have successfully published on the App Store.
 
 **📦 BLOC Delivery**
 
-<div style="display: flex; align-items: center; gap: 16px; padding: 8px 0;">
-  <a href="https://apps.apple.com/kh/app/bloc-delivery/id1459499838" target="_blank">
-    <img src="../assets/bloc_delivery.png" width="120" alt="BLOC Delivery" style="border-radius: 8px;">
-  </a>
-  <div>
-    <p><strong>Bloc</strong> is the E-commerce project known as the Bloc-Delivery App in Cambodia.</p>
-    <a href="https://apps.apple.com/kh/app/bloc-delivery/id1459499838">View on App Store</a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/kh/app/bloc-delivery/id1459499838">
+        <img src="../assets/bloc_delivery.png" width="120" alt="BLOC Delivery" style="border-radius: 8px;" />
+      </a>
+    </td>
+    <td style="padding-left: 16px;">
+      <p><strong>Bloc</strong> is the E-commerce project known as the Bloc-Delivery App in Cambodia.</p>
+      <a href="https://apps.apple.com/kh/app/bloc-delivery/id1459499838">View on App Store</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
