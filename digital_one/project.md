@@ -1,25 +1,47 @@
-# 📱 My App Contributions
+# 📱 Company Apps
 
-This document showcases the apps I’ve been involved in — either as a developer who **distributed** them on the App Store or as a maintainer for **ongoing support and development**.
+This document showcases the apps I’ve been involved in — either as a developer who maintainer for **ongoing support and development**.
 
 ---
 
-## 🚀 Apps I've Distributed on the App Store
+## 🚀 Apps Distributed on the App Store
 
-These are the apps that I have successfully published on the App Store.
+These are the apps that have successfully published on the App Store.
 
-**📦 BLOC Delivery**
+**🍽️ Instafood**
 
 <table>
   <tr>
     <td>
-      <a href="https://apps.apple.com/kh/app/bloc-delivery/id1459499838">
-        <img src="../assets/bloc_delivery.png" width="120" alt="BLOC Delivery" style="border-radius: 8px;" />
+      <a href="https://apps.apple.com/kh/app/instafoodkh/id1246793337">
+        <img src="../assets/instafood_kh.png" width="120" alt="Instafood KH" style="border-radius: 8px;" >
+      </a>  
+    </td>
+    <td style="padding-left: 16px;">
+      <p><strong>🍽️  Instafood Kh</strong> is the E-commerce project. Having a clean architecture state managemnet <em>BLOC</em>. However this app contance <em>SOCKET</em> realtime chat & driver tracking with three flavor (dev, stg, pro).This app also intergrate with ABA payment method.</p>
+      <a href="https://apps.apple.com/kh/app/instafoodkh/id1246793337">View on App Store</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/us/app/instafoodkh-vendor/id1568015546">
+        <img src="../assets/instafood_vendor.png" width="120" alt="Instafood Vendor" style="border-radius: 8px;" />
       </a>
     </td>
     <td style="padding-left: 16px;">
-      <p><strong>Bloc</strong> is the E-commerce project known as the Bloc-Delivery App in Cambodia.</p>
-      <a href="https://apps.apple.com/kh/app/bloc-delivery/id1459499838">View on App Store</a>
+      <p><strong>🏪 Instafood Vendor</strong> is vendor project known as vedor app of Instafood. This's app also using <em>BLOC</em> state management with three flavor (dev, stg, pro).</p>
+      <a href="https://apps.apple.com/us/app/instafoodkh-vendor/id1568015546">View on App Store</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/us/app/instafoodkh-driver/id1568014447">
+        <img src="../assets/instafood_driver.png" width="120" alt="Instafood Driver" style="border-radius: 8px;" />
+      </a>
+    </td>
+    <td style="padding-left: 16px;">
+      <p><strong>🚗 Instafood Driver</strong> is the driver project known as driver app of Instafood. This's app alos using <em>BLOC</em> state management with three flavor (dev, stg, pro).</p>
+      <a href="https://apps.apple.com/us/app/instafoodkh-driver/id1568014447">View on App Store</a>
     </td>
   </tr>
 </table>
@@ -30,30 +52,31 @@ These are the apps that I have successfully published on the App Store.
 
 Here are apps I’ve contributed to through development, feature updates, and maintenance.
 
-- **🍉 Fruit Daily**  
-  <a href="https://play.google.com/store/apps/details?id=com.bongtk.fruitdaily&pcampaignid">
-  <img src="../assets/fruit_daily.png" width="120" alt="Fruit Daily">
-  </a>  
-  [View on Google Play](https://play.google.com/store/apps/details?id=com.bongtk.fruitdaily&pcampaignid)
-
-- **🍽️ Instafood KH**  
-  <a href="https://apps.apple.com/kh/app/instafoodkh/id1246793337">
-  <img src="../assets/instafood_kh.png" width="120" alt="Instafood KH">
-  </a>  
-  [View on App Store](https://apps.apple.com/kh/app/instafoodkh/id1246793337)
-
-- **🏪 Instafood Vendor**  
-  <a href="https://apps.apple.com/kh/app/instafoodkh/id1246793337">
-  <img src="../assets/instafood_vendor.png" width="120" alt="Instafood Vendor">
-  </a>  
-  [View on App Store](https://apps.apple.com/kh/app/instafoodkh/id1246793337)
-
-- **🚗 Instafood Driver**  
-  <a href="https://apps.apple.com/kh/app/instafoodkh-driver/id1568014447">
-  <img src="../assets/instafood_driver.png" width="120" alt="Instafood Driver">
-  </a>  
-  [View on App Store](https://apps.apple.com/kh/app/instafoodkh-driver/id1568014447)
-
+<table>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/kh/app/fruit-daily/id6473465952">
+        <img src="../assets/fruit_daily.png" width="120" alt="Instafood KH" style="border-radius: 8px;" >
+      </a>  
+    </td>
+    <td style="padding-left: 16px;">
+      <p><strong>🍉 Fruit Daily</strong> is an online store project sell product. This's app have three favor (dev, stg, pro) using <em>BLOC</em> state management with cubit and provider.This app also intergrate with ABA payment method.</p>
+      <a href="https://apps.apple.com/kh/app/fruit-daily/id6473465952">View on App Store</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/kh/app/bloc-delivery/id1459499838">
+        <img src="../assets/bloc_delivery.png" width="120" alt="Instafood Vendor" style="border-radius: 8px;" />
+      </a>
+    </td>
+    <td style="padding-left: 16px;">
+      <p><strong>📦 BLOC Delivery</strong> is an E-commerce project known as the Bloc-Delivery App in Cambodia. This app build in version 2. Using <em>BLOC</em> state management with three flavor (dev, stg, pro). Also integret payment gate way with ABA, KHQR, ACLEDA and have AI search product with image.</p>
+      <a href="https://apps.apple.com/kh/app/bloc-delivery/id1459499838">View on App Store</a>
+    </td>
+  </tr>
+</table>
+  
 ---
 
 ### 🙌 Thank you for checking out my work
